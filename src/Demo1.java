@@ -7,5 +7,9 @@ public class Demo1 {
 		
 
 	}
+	public void funA()
+	{
+		System.out.println("funA");
+	}
 
 }
