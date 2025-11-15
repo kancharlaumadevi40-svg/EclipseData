@@ -7,5 +7,9 @@ public class Demo3 {
 		System.out.println("done");
 
 	}
+	public void funA()
+	{
+		system.out.println("uma");
+	}
 
 }
