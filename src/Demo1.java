@@ -12,7 +12,7 @@ public class Demo1 {
 	{
 		System.out.println("funA");
 	}
-	public void funB()
+	public static void funB()
 	{
 		System.out.println("funB");
 	}

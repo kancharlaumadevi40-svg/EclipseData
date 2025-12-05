@@ -5,7 +5,6 @@ public class Demo6{
 	{
 		System.out.println("welcome ");
 		funB();
-    funA();
 		
 
 	}
@@ -13,7 +12,7 @@ public class Demo6{
 	{
 		System.out.println("funA");
 	}
-	public void funB()
+	public static void funB()
 	{
 		System.out.println("funB");
 	}

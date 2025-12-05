@@ -9,7 +9,7 @@ public class Demo3 {
 	}
 	public void funA()
 	{
-		system.out.println("uma");
+		System.out.println("uma");
 	}
 
 }
